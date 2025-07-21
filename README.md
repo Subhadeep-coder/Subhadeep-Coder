@@ -10,7 +10,7 @@
 
 ### About Me:
 
-I'm a second year student pursuing CS.
+I'm a final year student pursuing CS.
 
 I'm currently trying to explore more into **Web and App Development**.
 
@@ -47,17 +47,6 @@ My hobbies include music, art, coding and gaming.
 
 ### IDE:
 [![IDEs and Tools](https://skillicons.dev/icons?i=vscode,postman)](https://skillicons.dev)
-
----
-
-### GitHub Stats:
-</br>
-
-![Subhadeep's stats](https://github-readme-stats.vercel.app/api?username=Subhadeep-coder&show_icons=true&theme=cobalt)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Subhadeep-coder)
-
----
-</br></br>
 
 ---
 
